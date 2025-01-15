@@ -27,11 +27,8 @@ namespace My_Portfolio
             Console.WriteLine(result);
         }
 
-        public void AddStock()
-        {
-
-        }
-
+        
+      
 
     }
 }
